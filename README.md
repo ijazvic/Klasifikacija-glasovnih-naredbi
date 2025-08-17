@@ -5,8 +5,3 @@ The project includes:
 - Preprocessing of audio signals (spectrograms, MFCCs)  
 - Training and evaluation of the CNN model  
 - A simple **Streamlit app** for recording and classifying commands in real time  
-
-Results:  
-- 97% accuracy on clean data  
-- 84% accuracy on noisy data  
-- Tested on real recorded samples  
